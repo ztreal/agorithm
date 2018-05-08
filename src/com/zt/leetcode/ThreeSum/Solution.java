@@ -1,4 +1,4 @@
-package algorithm.ThreeSum;
+package com.zt.leetcode.ThreeSum;
 
 import java.util.Arrays;
 import java.util.LinkedList;

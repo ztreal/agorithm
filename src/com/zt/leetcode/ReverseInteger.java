@@ -1,4 +1,4 @@
-package algorithm;
+package com.zt.leetcode;
 
 /**
  * Copyright (c) 2018 meituan.com. All Rights Reserved.

@@ -1,4 +1,4 @@
-package algorithm.ConvertSortedListToBinarySearchTree;
+package com.zt.leetcode.ConvertSortedListToBinarySearchTree;
 
 import com.google.common.base.MoreObjects;
 

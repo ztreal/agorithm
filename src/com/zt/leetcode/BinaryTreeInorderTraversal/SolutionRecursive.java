@@ -1,4 +1,4 @@
-package algorithm.BinaryTreeInorderTraversal;
+package com.zt.leetcode.BinaryTreeInorderTraversal;
 
 /**
  * Copyright (c) 2018 meituan.com. All Rights Reserved.

@@ -1,4 +1,4 @@
-package algorithm.ConvertSortedListToBinarySearchTree;
+package com.zt.leetcode.ConvertSortedListToBinarySearchTree;
 
 /**
  * Copyright (c) 2018 meituan.com. All Rights Reserved.

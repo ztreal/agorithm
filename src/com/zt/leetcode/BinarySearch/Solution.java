@@ -1,4 +1,4 @@
-package algorithm.BinarySearch;
+package com.zt.leetcode.BinarySearch;
 
 /**
  * Copyright (c) 2018 meituan.com. All Rights Reserved.

@@ -1,4 +1,4 @@
-package algorithm.BinaryTreeInorderTraversal;
+package com.zt.leetcode.BinaryTreeInorderTraversal;
 
 import java.util.ArrayList;
 import java.util.List;

@@ -1,4 +1,4 @@
-package algorithm.TwoSum;
+package com.zt.leetcode.TwoSum;
 
 import java.util.Arrays;
 

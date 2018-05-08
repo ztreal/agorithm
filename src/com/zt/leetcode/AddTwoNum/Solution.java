@@ -1,4 +1,4 @@
-package algorithm.AddTwoNum;
+package com.zt.leetcode.AddTwoNum;
 
 /**
  * Copyright (c) 2018 meituan.com. All Rights Reserved.
