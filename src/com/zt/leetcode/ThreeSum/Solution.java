@@ -5,7 +5,7 @@ import java.util.LinkedList;
 import java.util.List;
 
 /**
- * Copyright (c) 2018 meituan.com. All Rights Reserved.
+ *  .
  * a+b+c=0,find all unique triplets in the array,which gives the sum of zero
  * [-1,0,1,2,-1,-4]  a solution set is [-1,0,1],[-1,-1,2]
  *

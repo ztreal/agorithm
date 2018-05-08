@@ -5,7 +5,7 @@ import java.util.HashMap;
 import java.util.Map;
 
 /**
- * Copyright (c) 2018 meituan.com. All Rights Reserved.
+ *  .
  * time complexity o(n)
  * space complexity o(n)
  * [2,7,11,15]，target = 9 因为2+7=9，return[0,1]

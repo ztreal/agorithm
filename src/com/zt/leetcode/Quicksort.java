@@ -3,7 +3,7 @@ package com.zt.leetcode;
 import java.util.Arrays;
 
 /**
- * Copyright (c) 2018 meituan.com. All Rights Reserved.
+ *  .
  * http://developer.51cto.com/art/201403/430986.htm
  * 在最坏的情况下，仍可能是相邻的两个数进行了交换。因此快速排序的最差时间复杂度和冒泡排序是一样的都是O(N2)，它的平均时间复杂度为O(NlogN)
  *

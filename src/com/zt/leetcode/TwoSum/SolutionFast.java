@@ -3,7 +3,7 @@ package com.zt.leetcode.TwoSum;
 import java.util.Arrays;
 
 /**
- * Copyright (c) 2018 meituan.com. All Rights Reserved.
+ *  .
  *
  * @author zhangtan
  * @version 1.0

@@ -3,7 +3,7 @@ package com.zt.leetcode.ConvertSortedListToBinarySearchTree;
 import com.google.common.base.MoreObjects;
 
 /**
- * Copyright (c) 2018 meituan.com. All Rights Reserved.
+ *  .
  *
  * @author zhangtan
  * @version 1.0

@@ -5,7 +5,7 @@ import java.util.List;
 import java.util.Stack;
 
 /**
- * Copyright (c) 2018 meituan.com. All Rights Reserved.
+ *  .
  * binary tree inorder traversal 中序遍历:左根右  前序：根左右   后续：左右根
  * given binary tree[1,nul,2,3] return [1,3,2]
  *

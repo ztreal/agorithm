@@ -1,7 +1,7 @@
 package com.zt.leetcode.ConvertSortedListToBinarySearchTree;
 
 /**
- * Copyright (c) 2018 meituan.com. All Rights Reserved.
+ *  .
  * 2、4、6、8、10、12、14
  *
  * @author zhangtan
