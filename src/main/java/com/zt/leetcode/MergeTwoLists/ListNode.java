@@ -1,4 +1,4 @@
-package leetcode.MergeTwoLists;
+package com.zt.leetcode.MergeTwoLists;
 
 import com.google.common.base.MoreObjects;
 
