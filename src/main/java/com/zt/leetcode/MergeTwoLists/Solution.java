@@ -34,6 +34,7 @@ class Solution {
         ListNode l2 = new ListNode(2);
         l2.next = new ListNode(4);
         l2.next.next = new ListNode(6);
+        l2.next.next.next = new ListNode(7);
         System.out.println(mergeTwoLists(l1, l2));
     }
 }

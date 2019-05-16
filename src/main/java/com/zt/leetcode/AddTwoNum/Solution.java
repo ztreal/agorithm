@@ -1,7 +1,6 @@
 package com.zt.leetcode.AddTwoNum;
 
 
-import leetcode.MergeTwoLists.ListNode;
 
 /**
  * .
