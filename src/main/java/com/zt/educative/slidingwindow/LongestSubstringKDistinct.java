@@ -1,4 +1,4 @@
-package com.zt.educative;
+package com.zt.educative.slidingwindow;
 
 /**
  * https://www.educative.io/collection/page/5668639101419520/5671464854355968/5698217712812032
@@ -45,6 +45,7 @@ class LongestSubstringKDistinct {
             return len + 1;
         }
         return -1;
+
     }
 
     public static void main(String[] args) {

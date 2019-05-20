@@ -1,4 +1,4 @@
-package com.zt.educative;
+package com.zt.educative.slidingwindow;
 
 /**
  * https://www.educative.io/collection/page/5668639101419520/5671464854355968/4578892830474240
