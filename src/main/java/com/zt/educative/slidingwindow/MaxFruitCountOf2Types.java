@@ -1,4 +1,4 @@
-package com.zt.educative;
+package com.zt.educative.slidingwindow;
 
 public class MaxFruitCountOf2Types {
 }
