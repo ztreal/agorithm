@@ -30,27 +30,15 @@ class CharacterReplacement {
     private static int findLength(String str, int k) {
         // TODO: Write your code here
         int left = 0, right = 0, maxSize = 0;
-        Map<Character, Integer> keyMap = new HashMap<>();
+        Map<Character, Integer> repeatCharMap = new HashMap<>();
         for (; right < str.length(); right++) {
-            Character tempChar = str.charAt(right);
-//            if (right > 1 && tempChar.equals(str.charAt(right - 1))) {
-//                maxSize++;
-//                continue;
-//            }
-            if (keyMap.containsKey(tempChar)) {
-                if (right - keyMap.get(tempChar) - 1 < k) {
-                    int contanLen = right - keyMap.get(tempChar) - 1;
-                    maxSize = Math.max(maxSize, right - keyMap.get(tempChar) + 1 + (k - contanLen));
-                } else {
-                    left++;
-                }
-                if (right - keyMap.get(tempChar) - 1 > k) {
-                    keyMap.remove(tempChar);
-                }
-            } else {
-                keyMap.put(tempChar, right);
+            Character rightChar = str.charAt(right);
+            repeatCharMap.put(rightChar, repeatCharMap.getOrDefault(rightChar, 0) + 1);
+            if (right - left + 1 - repeatCharMap.get(rightChar) > k) {
+                repeatCharMap.put(str.charAt(left), repeatCharMap.get(str.charAt(left)) - 1);
+                left++;
             }
-
+            maxSize = Math.max(maxSize, right - left + 1);
         }
         if (maxSize > 0) {
             return maxSize;
